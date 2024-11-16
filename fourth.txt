@@ -1,1 +1,4 @@
 Checking when close bash window and reopen will i auto connect
+
+
+Yes it does
