@@ -1,1 +1,3 @@
 third file added to testing Bash functions
+
+Continuous testing functions work 
